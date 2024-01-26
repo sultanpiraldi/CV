@@ -1,0 +1,692 @@
+<?xml version="1.0" encoding="UTF-8"?><rss version="2.0"
+	xmlns:content="http://purl.org/rss/1.0/modules/content/"
+	xmlns:wfw="http://wellformedweb.org/CommentAPI/"
+	xmlns:dc="http://purl.org/dc/elements/1.1/"
+	xmlns:atom="http://www.w3.org/2005/Atom"
+	xmlns:sy="http://purl.org/rss/1.0/modules/syndication/"
+	xmlns:slash="http://purl.org/rss/1.0/modules/slash/"
+	>
+
+<channel>
+	<title>CV</title>
+	<atom:link href="https://sultanpiraldi.github.io/CV/feed/" rel="self" type="application/rss+xml" />
+	<link>https://sultanpiraldi.github.io/CV</link>
+	<description></description>
+	<lastBuildDate>Fri, 26 Jan 2024 03:50:07 +0000</lastBuildDate>
+	<language>en-US</language>
+	<sy:updatePeriod>
+	hourly	</sy:updatePeriod>
+	<sy:updateFrequency>
+	1	</sy:updateFrequency>
+	<generator>https://wordpress.org/?v=6.4.2</generator>
+	<item>
+		<title>Hello world!</title>
+		<link>https://sultanpiraldi.github.io/CV/2024/01/26/hello-world/</link>
+					<comments>https://sultanpiraldi.github.io/CV/2024/01/26/hello-world/#comments</comments>
+		
+		<dc:creator><![CDATA[sultan]]></dc:creator>
+		<pubDate>Fri, 26 Jan 2024 02:41:59 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">https://sultanpiraldi.github.io/CV/?p=1</guid>
+
+					<description><![CDATA[&#8211; My Works I am sultan a IT service from Bekasi. &#8211; My Works 4 years of experience, with so many organization world wide. Aenean lorem nulla, euismod non egestas et, iaculis et augue. Fusce sit amet orci consectetur, cursusurna sed, sollicitudin ante. Ligula odio condimentum risus, vitae auctor lectusnibh in nisl. Quisque ante lectus, [&#8230;]]]></description>
+										<content:encoded><![CDATA[		<div data-elementor-type="wp-post" data-elementor-id="1" class="elementor elementor-1">
+							<div class="elementor-element elementor-element-973ecbf e-flex e-con-boxed e-con e-parent" data-id="973ecbf" data-element_type="container" data-settings="{&quot;content_width&quot;:&quot;boxed&quot;}" data-core-v316-plus="true">
+					<div class="e-con-inner">
+				<div class="elementor-element elementor-element-42105b66 elementor-widget elementor-widget-text-editor" data-id="42105b66" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-text-editor.elementor-drop-cap-view-stacked .elementor-drop-cap{background-color:#69727d;color:#fff}.elementor-widget-text-editor.elementor-drop-cap-view-framed .elementor-drop-cap{color:#69727d;border:3px solid;background-color:transparent}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap{margin-top:8px}.elementor-widget-text-editor:not(.elementor-drop-cap-view-default) .elementor-drop-cap-letter{width:1em;height:1em}.elementor-widget-text-editor .elementor-drop-cap{float:left;text-align:center;line-height:1;font-size:50px}.elementor-widget-text-editor .elementor-drop-cap-letter{display:inline-block}</style>										</div>
+				</div>
+					</div>
+				</div>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-4e08cfca elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="4e08cfca" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-262deba" data-id="262deba" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-63de9595 elementor-invisible elementor-widget elementor-widget-button" data-id="63de9595" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#my-works">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">- My Works</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-top-column elementor-element elementor-element-5b5035f8" data-id="5b5035f8" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1ec9ca75 elementor-widget elementor-widget-heading" data-id="1ec9ca75" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-heading-title{padding:0;margin:0;line-height:1}.elementor-widget-heading .elementor-heading-title[class*=elementor-size-]>a{color:inherit;font-size:inherit;line-height:inherit}.elementor-widget-heading .elementor-heading-title.elementor-size-small{font-size:15px}.elementor-widget-heading .elementor-heading-title.elementor-size-medium{font-size:19px}.elementor-widget-heading .elementor-heading-title.elementor-size-large{font-size:29px}.elementor-widget-heading .elementor-heading-title.elementor-size-xl{font-size:39px}.elementor-widget-heading .elementor-heading-title.elementor-size-xxl{font-size:59px}</style><h2 class="elementor-heading-title elementor-size-default">I am sultan a IT service from Bekasi.</h2>		</div>
+				</div>
+				<div class="elementor-element elementor-element-86c2179 elementor-invisible elementor-widget elementor-widget-button" data-id="86c2179" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInLeft&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="button.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-button-wrapper">
+			<a class="elementor-button elementor-button-link elementor-size-sm" href="#my-works">
+						<span class="elementor-button-content-wrapper">
+						<span class="elementor-button-text">- My Works</span>
+		</span>
+					</a>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-21d9c343 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="21d9c343" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-5fdb3ecd" data-id="5fdb3ecd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-358c2c3 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="358c2c3" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-69289919 elementor-invisible" data-id="69289919" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInUp&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-544ec192 elementor-widget elementor-widget-heading" data-id="544ec192" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-xxl">4 years of experience, with so many organization world wide.</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-51ebf119 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="51ebf119" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-divider{--divider-border-style:none;--divider-border-width:1px;--divider-color:#0c0d0e;--divider-icon-size:20px;--divider-element-spacing:10px;--divider-pattern-height:24px;--divider-pattern-size:20px;--divider-pattern-url:none;--divider-pattern-repeat:repeat-x}.elementor-widget-divider .elementor-divider{display:flex}.elementor-widget-divider .elementor-divider__text{font-size:15px;line-height:1;max-width:95%}.elementor-widget-divider .elementor-divider__element{margin:0 var(--divider-element-spacing);flex-shrink:0}.elementor-widget-divider .elementor-icon{font-size:var(--divider-icon-size)}.elementor-widget-divider .elementor-divider-separator{display:flex;margin:0;direction:ltr}.elementor-widget-divider--view-line_icon .elementor-divider-separator,.elementor-widget-divider--view-line_text .elementor-divider-separator{align-items:center}.elementor-widget-divider--view-line_icon .elementor-divider-separator:after,.elementor-widget-divider--view-line_icon .elementor-divider-separator:before,.elementor-widget-divider--view-line_text .elementor-divider-separator:after,.elementor-widget-divider--view-line_text .elementor-divider-separator:before{display:block;content:"";border-bottom:0;flex-grow:1;border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--element-align-left .elementor-divider .elementor-divider-separator>.elementor-divider__svg:first-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-left .elementor-divider-separator:before{content:none}.elementor-widget-divider--element-align-left .elementor-divider__element{margin-left:0}.elementor-widget-divider--element-align-right .elementor-divider .elementor-divider-separator>.elementor-divider__svg:last-of-type{flex-grow:0;flex-shrink:100}.elementor-widget-divider--element-align-right .elementor-divider-separator:after{content:none}.elementor-widget-divider--element-align-right .elementor-divider__element{margin-right:0}.elementor-widget-divider:not(.elementor-widget-divider--view-line_text):not(.elementor-widget-divider--view-line_icon) .elementor-divider-separator{border-top:var(--divider-border-width) var(--divider-border-style) var(--divider-color)}.elementor-widget-divider--separator-type-pattern{--divider-border-style:none}.elementor-widget-divider--separator-type-pattern.elementor-widget-divider--view-line .elementor-divider-separator,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:after,.elementor-widget-divider--separator-type-pattern:not(.elementor-widget-divider--view-line) .elementor-divider-separator:before,.elementor-widget-divider--separator-type-pattern:not([class*=elementor-widget-divider--view]) .elementor-divider-separator{width:100%;min-height:var(--divider-pattern-height);-webkit-mask-size:var(--divider-pattern-size) 100%;mask-size:var(--divider-pattern-size) 100%;-webkit-mask-repeat:var(--divider-pattern-repeat);mask-repeat:var(--divider-pattern-repeat);background-color:var(--divider-color);-webkit-mask-image:var(--divider-pattern-url);mask-image:var(--divider-pattern-url)}.elementor-widget-divider--no-spacing{--divider-pattern-size:auto}.elementor-widget-divider--bg-round{--divider-pattern-repeat:round}.rtl .elementor-widget-divider .elementor-divider__text{direction:rtl}.e-con-inner>.elementor-widget-divider,.e-con>.elementor-widget-divider{width:var(--container-widget-width,100%);--flex-grow:var(--container-widget-flex-grow)}</style>		<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-246aaece elementor-widget elementor-widget-text-editor" data-id="246aaece" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<p>Aenean lorem nulla, euismod non egestas et, iaculis et augue. Fusce sit amet orci consectetur, cursus<br />urna sed, sollicitudin ante.</p><p>Ligula odio condimentum risus, vitae auctor lectus<br />nibh in nisl. Quisque ante lectus, mattis scelerisque<br />dui et, volutpat mollis ligula. Curabitur leo ante,<br />cursus sed imperdiet ut, elementum ac sem. Morbi sagittis volutpat tempor.</p>						</div>
+				</div>
+				<div class="elementor-element elementor-element-5d92d4e8 elementor-widget elementor-widget-spacer" data-id="5d92d4e8" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-column .elementor-spacer-inner{height:var(--spacer-size)}.e-con{--container-widget-width:100%}.e-con-inner>.elementor-widget-spacer,.e-con>.elementor-widget-spacer{width:var(--container-widget-width,var(--spacer-size));--align-self:var(--container-widget-align-self,initial);--flex-shrink:0}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container,.e-con>.elementor-widget-spacer>.elementor-widget-container{height:100%;width:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer{height:100%}.e-con-inner>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner,.e-con>.elementor-widget-spacer>.elementor-widget-container>.elementor-spacer>.elementor-spacer-inner{height:var(--container-widget-height,var(--spacer-size))}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty,.e-con>.elementor-widget-spacer.elementor-widget-empty{position:relative;min-height:22px;min-width:22px}.e-con-inner>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon,.e-con>.elementor-widget-spacer.elementor-widget-empty .elementor-widget-empty-icon{position:absolute;top:0;bottom:0;left:0;right:0;margin:auto;padding:0;width:22px;height:22px}</style>		<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-3c20a38 animated-fast elementor-invisible elementor-widget elementor-widget-heading" data-id="3c20a38" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-default">This is what I 
+have done in the 
+last 12 years
+
+</span>		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-50 elementor-inner-column elementor-element elementor-element-58d1ab34" data-id="58d1ab34" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2bf26ca6 elementor-invisible elementor-widget elementor-widget-image" data-id="2bf26ca6" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;,&quot;_animation_delay&quot;:500}" data-widget_type="image.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-image{text-align:center}.elementor-widget-image a{display:inline-block}.elementor-widget-image a img[src$=".svg"]{width:48px}.elementor-widget-image img{vertical-align:middle;display:inline-block}</style>												<img fetchpriority="high" decoding="async" width="1200" height="1600" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/gwej.png" class="attachment-full size-full wp-image-79" alt="" />															</div>
+				</div>
+				<div class="elementor-element elementor-element-6787f911 elementor-invisible elementor-widget elementor-widget-ucaddon_blox_simple_linear_timeline" data-id="6787f911" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="ucaddon_blox_simple_linear_timeline.default">
+				<div class="elementor-widget-container">
+			<!-- start Simple Linear Timeline -->
+		<link id='uc_ac_assets_file_blox_simple_linear_timeline_css_2016-css' href='https://sultanpiraldi.github.io/CV/wp-content/uploads/ac_assets/blox_simple_linear_timeline/blox-simple-linear-timeline.css' type='text/css' rel='stylesheet' >
+
+
+			<div class="blox-simple-linear-timeline">
+    	<div class="blox-year" style="color:#78828C;"><span  class="uc_style_blox_simple_linear_timeline_elementor_title" >2019</span></div>
+        <ul class="blox-list">
+            <li>
+                <div class="blox-wrapper">
+                    <span class="blox-dote" style=" background-color:#000000;"></span>
+                    <div class="blox-content"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_title" >Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</span></div>
+                    <div class="blox-date"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_date" >December 31, 2019</span></div>	
+                </div>
+            </li>
+<li>
+                <div class="blox-wrapper">
+                    <span class="blox-dote" style=" background-color:#000000;"></span>
+                    <div class="blox-content"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_title" >Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</span></div>
+                    <div class="blox-date"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_date" >December 31, 2019</span></div>	
+                </div>
+            </li>
+
+        </ul>
+</div>
+			<!-- end Simple Linear Timeline -->		</div>
+				</div>
+				<div class="elementor-element elementor-element-4ca1c0c3 elementor-invisible elementor-widget elementor-widget-ucaddon_blox_simple_linear_timeline" data-id="4ca1c0c3" data-element_type="widget" data-settings="{&quot;_animation&quot;:&quot;slideInUp&quot;}" data-widget_type="ucaddon_blox_simple_linear_timeline.default">
+				<div class="elementor-widget-container">
+			<!-- start Simple Linear Timeline -->
+
+
+			<div class="blox-simple-linear-timeline">
+    	<div class="blox-year" style="color:#78828C;"><span  class="uc_style_blox_simple_linear_timeline_elementor_title" >2020</span></div>
+        <ul class="blox-list">
+            <li>
+                <div class="blox-wrapper">
+                    <span class="blox-dote" style=" background-color:#000000;"></span>
+                    <div class="blox-content"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_title" >Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</span></div>
+                    <div class="blox-date"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_date" >December 31, 2019</span></div>	
+                </div>
+            </li>
+<li>
+                <div class="blox-wrapper">
+                    <span class="blox-dote" style=" background-color:#000000;"></span>
+                    <div class="blox-content"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_title" >Lorem ipsum Nisi labore aute do aute culpa magna nulla voluptate exercitation deserunt proident.</span></div>
+                    <div class="blox-date"><span  class="uc_style_blox_simple_linear_timeline_elementor_uc_items_attribute_date" >December 31, 2019</span></div>	
+                </div>
+            </li>
+
+        </ul>
+</div>
+			<!-- end Simple Linear Timeline -->		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-74ad2cd elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="74ad2cd" data-element_type="section" id="my-works" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-fca7dfd" data-id="fca7dfd" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-2ea4e1a8 elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="2ea4e1a8" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+		<link id='font-awesome-css' href='https://sultanpiraldi.github.io/CV/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/font-awesome5/css/fontawesome-all.min.css' type='text/css' rel='stylesheet' >
+		<link id='font-awesome-4-shim-css' href='https://sultanpiraldi.github.io/CV/wp-content/plugins/unlimited-elements-for-elementor/assets_libraries/font-awesome5/css/fontawesome-v4-shims.css' type='text/css' rel='stylesheet' >
+		<link id='uc_ac_assets_file_image_content_box_css_2586-css' href='https://sultanpiraldi.github.io/CV/wp-content/uploads/ac_assets/image_content_box/image-content-box.css' type='text/css' rel='stylesheet' >
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery1.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">Graphic Design</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+</span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3272bf96" data-id="3272bf96" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-34fc35be elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="34fc35be" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery2.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">Logo Design</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+</span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-54e3b94c" data-id="54e3b94c" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3deb2465 elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="3deb2465" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery3.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">App Design</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+</span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-3721c6bc" data-id="3721c6bc" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4287a409 elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="4287a409" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery4.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">Font Design</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+</span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-19738f57 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="19738f57" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-381b8187" data-id="381b8187" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6dc0aef8 elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="6dc0aef8" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery5.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">Photography</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+<br>
+<i class="fa fa-long-arrow-right"></i> </span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2784a0ec" data-id="2784a0ec" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7115856b elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="7115856b" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery6.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">Photoshop</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+<br>
+<i class="fa fa-long-arrow-right"></i> </span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-cb1d127" data-id="cb1d127" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-369d76af elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="369d76af" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery7.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">UX / UI</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+<br>
+<i class="fa fa-long-arrow-right"></i> </span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-25 elementor-top-column elementor-element elementor-element-2ed0e0f2" data-id="2ed0e0f2" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5ea7d416 elementor-widget elementor-widget-ucaddon_solid_color_overlay_icon_box" data-id="5ea7d416" data-element_type="widget" data-widget_type="ucaddon_solid_color_overlay_icon_box.default">
+				<div class="elementor-widget-container">
+			<!-- start Overlay Icon Box -->
+
+
+			<div class="uc_image-content-box">
+        <div class="uc_portfolio_gallery">
+        	<ul>
+            	<li>
+                	<div class="uc_portfolio_content">
+                    	<img decoding="async" src="https://sultanpiraldi.github.io/CV/wp-content/uploads/2024/01/fresh_gallery8.jpg" alt="" class="uc_image-content-box-image" style="object-fit:cover;">
+                        	<div class="uc_portfolio_overlay" style="background-color:#000000;">
+                            	<a href="">
+                                    <div class="uc_porfolio_detail">
+                                    	<i class=""></i>
+                                    </div>
+                                    <h2 style="padding-top:10px;padding-bottom:10px;">Typography</h2>
+                                    <p><span  class="uc_style_solid_color_overlay_icon_box_elementor_content_one" >Lorem ipsum dolor sit amet, consectetur adipiscing elit. Maecenas ac augue at erat hendrerit dictum.
+<br>
+<i class="fa fa-long-arrow-right"></i> </span></p>
+                                    <div class="uc_portfolio_link">
+                                    	<!-- <i class="fa fa-long-arrow-right"></i> -->
+                                    </div>
+                                </a>
+                            </div>
+                    </div>
+                </li>
+               
+            </ul>	
+        </div>
+  </div>
+			<!-- end Overlay Icon Box -->		</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-1511fb8c elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="1511fb8c" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-14c584fe" data-id="14c584fe" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4e3eb43e elementor-widget elementor-widget-spacer" data-id="4e3eb43e" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-5a21edb2 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default elementor-invisible" data-id="5a21edb2" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;animation&quot;:&quot;slideInLeft&quot;}">
+						<div class="elementor-container elementor-column-gap-no">
+					<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-39ca2cd3" data-id="39ca2cd3" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-4492de05 elementor-widget elementor-widget-icon-box" data-id="4492de05" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+			<link rel="stylesheet" href="https://sultanpiraldi.github.io/CV/wp-content/plugins/elementor/assets/css/widget-icon-box.min.css">		<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<span class="elementor-icon-box-title">
+					<span  >
+						Date of Birth					</span>
+				</span>
+									<p class="elementor-icon-box-description">
+						Mei 31-2005					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-68ab5a06" data-id="68ab5a06" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-3b6ee218 elementor-widget elementor-widget-icon-box" data-id="3b6ee218" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<span class="elementor-icon-box-title">
+					<span  >
+						Address					</span>
+				</span>
+									<p class="elementor-icon-box-description">
+						Bekasi, Narrogong					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-7cbbe29b" data-id="7cbbe29b" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-1fcf5022 elementor-widget elementor-widget-icon-box" data-id="1fcf5022" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<span class="elementor-icon-box-title">
+					<span  >
+						Email					</span>
+				</span>
+									<p class="elementor-icon-box-description">
+						sultanfajar22@gmail.com					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-6dda8dab" data-id="6dda8dab" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-13c41731 elementor-widget elementor-widget-icon-box" data-id="13c41731" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<span class="elementor-icon-box-title">
+					<span  >
+						Instagram					</span>
+				</span>
+									<p class="elementor-icon-box-description">
+						sultan4150					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+				<div class="elementor-column elementor-col-20 elementor-top-column elementor-element elementor-element-552acaca" data-id="552acaca" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-7ff93924 elementor-widget elementor-widget-icon-box" data-id="7ff93924" data-element_type="widget" data-widget_type="icon-box.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-icon-box-wrapper">
+						<div class="elementor-icon-box-content">
+				<span class="elementor-icon-box-title">
+					<span  >
+						Phone					</span>
+				</span>
+									<p class="elementor-icon-box-description">
+						+62 5774629908					</p>
+							</div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-b9d8642 elementor-section-stretched elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="b9d8642" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a862c74" data-id="3a862c74" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-69b30e3a elementor-widget elementor-widget-spacer" data-id="69b30e3a" data-element_type="widget" data-widget_type="spacer.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-spacer">
+			<div class="elementor-spacer-inner"></div>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-6c8e8fea elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="6c8e8fea" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;,&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-3a222b3d" data-id="3a222b3d" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-7a04f7b9 elementor-section-full_width elementor-section-height-default elementor-section-height-default" data-id="7a04f7b9" data-element_type="section" data-settings="{&quot;background_background&quot;:&quot;classic&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-34daa091" data-id="34daa091" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-6dbfd387 elementor-widget elementor-widget-heading" data-id="6dbfd387" data-element_type="widget" data-widget_type="heading.default">
+				<div class="elementor-widget-container">
+			<span class="elementor-heading-title elementor-size-xxl">Hollar Back
+</span>		</div>
+				</div>
+				<div class="elementor-element elementor-element-250ed874 elementor-widget-divider--view-line elementor-widget elementor-widget-divider" data-id="250ed874" data-element_type="widget" data-widget_type="divider.default">
+				<div class="elementor-widget-container">
+					<div class="elementor-divider">
+			<span class="elementor-divider-separator">
+						</span>
+		</div>
+				</div>
+				</div>
+				<div class="elementor-element elementor-element-794f94be elementor-widget elementor-widget-text-editor" data-id="794f94be" data-element_type="widget" data-widget_type="text-editor.default">
+				<div class="elementor-widget-container">
+							<div id="uc_grid_1_row_6" class="uc-grid-row"><div id="uc_grid_1_row_6_container_1" class="uc-grid-row-container"><div id="uc_grid_1_row_6_container_1_col_1" class="uc-grid-col uc-col-first uc-col-last uc-colsize-1_1"><div class="uc-grid-col-inner"><div id="uc_grid_1_row_6_container_1_col_1_addon_3" class="uc-grid-col-addon wow fadeInUp"><div><span class="uc-style-21">If You Like My Stuff, Talk With Me</span></div></div></div></div><div class="uc-col-clear"> </div></div></div><div id="uc_grid_1_row_7" class="uc-grid-row"><div id="uc_grid_1_row_7_container_1" class="uc-grid-row-container"><div id="uc_grid_1_row_7_container_1_col_1" class="uc-grid-col uc-col-first uc-colsize-1_2 wow fadeInUp"><div class="uc-grid-col-inner"><div id="uc_grid_1_row_7_container_1_col_1_addon_1" class="uc-grid-col-addon"><div id="uc_blox_lead_form387105" class="uc_form_wrapper"><form class="uc-form" name="uc_form_form1"></form></div></div></div></div></div></div>						</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+				<section class="elementor-section elementor-top-section elementor-element elementor-element-55ef3e88 elementor-section-stretched elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="55ef3e88" data-element_type="section" data-settings="{&quot;stretch_section&quot;:&quot;section-stretched&quot;}">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-top-column elementor-element elementor-element-1ef80463" data-id="1ef80463" data-element_type="column">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<section class="elementor-section elementor-inner-section elementor-element elementor-element-237d715 elementor-section-boxed elementor-section-height-default elementor-section-height-default" data-id="237d715" data-element_type="section">
+						<div class="elementor-container elementor-column-gap-default">
+					<div class="elementor-column elementor-col-100 elementor-inner-column elementor-element elementor-element-33df4b3c elementor-invisible" data-id="33df4b3c" data-element_type="column" data-settings="{&quot;animation&quot;:&quot;slideInUp&quot;,&quot;animation_delay&quot;:500}">
+			<div class="elementor-widget-wrap elementor-element-populated">
+								<div class="elementor-element elementor-element-5fa2c614 elementor-widget elementor-widget-google_maps" data-id="5fa2c614" data-element_type="widget" data-widget_type="google_maps.default">
+				<div class="elementor-widget-container">
+			<style>/*! elementor - v3.18.0 - 20-12-2023 */
+.elementor-widget-google_maps .elementor-widget-container{overflow:hidden}.elementor-widget-google_maps .elementor-custom-embed{line-height:0}.elementor-widget-google_maps iframe{height:300px}</style>		<div class="elementor-custom-embed">
+			<iframe loading="lazy"
+					src="https://maps.google.com/maps?q=bekasi%20narrogong%20indah&#038;t=m&#038;z=13&#038;output=embed&#038;iwloc=near"
+					title="bekasi narrogong indah"
+					aria-label="bekasi narrogong indah"
+			></iframe>
+		</div>
+				</div>
+				</div>
+					</div>
+		</div>
+							</div>
+		</section>
+					</div>
+		</div>
+							</div>
+		</section>
+							</div>
+		]]></content:encoded>
+					
+					<wfw:commentRss>https://sultanpiraldi.github.io/CV/2024/01/26/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+	</channel>
+</rss>
